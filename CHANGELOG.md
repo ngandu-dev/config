@@ -3,6 +3,12 @@
 All notable changes to `@ngandu-dev/config` are documented in this file. This project follows
 [Semantic Versioning](https://semver.org/).
 
+## 3.0.1
+
+### Patch Changes
+
+- Remove Commitlint and its transitive dependencies, configuration, and commit-message hook while preserving pre-commit validation. Refresh compatible dependencies and the Bun lockfile.
+
 ## 3.0.0
 
 ### Changed
