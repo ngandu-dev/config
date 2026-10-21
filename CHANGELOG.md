@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.2
+
+### Patch Changes
+
+- Run release automation on stable tag pushes, publish npm packages through trusted publishing, and create GitHub releases with generated notes. Leave prereleases to manual publishing.
+
 All notable changes to `@ngandu-dev/config` are documented in this file. This project follows
 [Semantic Versioning](https://semver.org/).
 
