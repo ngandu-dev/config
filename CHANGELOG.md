@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.3
+
+### Patch Changes
+
+- Update the locked dependency graph to patched development tools and require quality checks, tests, and a security audit to pass before publishing stable tags.
+
 ## 3.0.2
 
 ### Patch Changes
